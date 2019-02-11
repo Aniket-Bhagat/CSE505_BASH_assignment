@@ -1,0 +1,1502 @@
+[
+	{
+		"ID:1"
+		"NAME:The Shawshank Redemption"
+		"YEAR:1994"
+		"RATING:9.2		"
+	}
+	{
+		"ID:2"
+		"NAME:The Godfather"
+		"YEAR:1972"
+		"RATING:9.2		"
+	}
+	{
+		"ID:3"
+		"NAME:The Godfather: Part II"
+		"YEAR:1974"
+		"RATING:9.0		"
+	}
+	{
+		"ID:4"
+		"NAME:The Dark Knight"
+		"YEAR:2008"
+		"RATING:9.0		"
+	}
+	{
+		"ID:5"
+		"NAME:12 Angry Men"
+		"YEAR:1957"
+		"RATING:8.9		"
+	}
+	{
+		"ID:6"
+		"NAME:Schindler's List"
+		"YEAR:1993"
+		"RATING:8.9		"
+	}
+	{
+		"ID:7"
+		"NAME:Pulp Fiction"
+		"YEAR:1994"
+		"RATING:8.9		"
+	}
+	{
+		"ID:8"
+		"NAME:The Lord of the Rings: The Return of the King"
+		"YEAR:2003"
+		"RATING:8.9		"
+	}
+	{
+		"ID:9"
+		"NAME:The Good, the Bad and the Ugly"
+		"YEAR:1966"
+		"RATING:8.8		"
+	}
+	{
+		"ID:10"
+		"NAME:Fight Club"
+		"YEAR:1999"
+		"RATING:8.8		"
+	}
+	{
+		"ID:11"
+		"NAME:The Lord of the Rings: The Fellowship of the Ring"
+		"YEAR:2001"
+		"RATING:8.8		"
+	}
+	{
+		"ID:12"
+		"NAME:Forrest Gump"
+		"YEAR:1994"
+		"RATING:8.7		"
+	}
+	{
+		"ID:13"
+		"NAME:Star Wars: Episode V - The Empire Strikes Back"
+		"YEAR:1980"
+		"RATING:8.7		"
+	}
+	{
+		"ID:14"
+		"NAME:Inception"
+		"YEAR:2010"
+		"RATING:8.7		"
+	}
+	{
+		"ID:15"
+		"NAME:The Lord of the Rings: The Two Towers"
+		"YEAR:2002"
+		"RATING:8.7		"
+	}
+	{
+		"ID:16"
+		"NAME:One Flew Over the Cuckoo's Nest"
+		"YEAR:1975"
+		"RATING:8.7		"
+	}
+	{
+		"ID:17"
+		"NAME:Goodfellas"
+		"YEAR:1990"
+		"RATING:8.7		"
+	}
+	{
+		"ID:18"
+		"NAME:The Matrix"
+		"YEAR:1999"
+		"RATING:8.7		"
+	}
+	{
+		"ID:19"
+		"NAME:Seven Samurai"
+		"YEAR:1954"
+		"RATING:8.6		"
+	}
+	{
+		"ID:20"
+		"NAME:Star Wars: Episode IV - A New Hope"
+		"YEAR:1977"
+		"RATING:8.6		"
+	}
+	{
+		"ID:21"
+		"NAME:City of God"
+		"YEAR:2002"
+		"RATING:8.6		"
+	}
+	{
+		"ID:22"
+		"NAME:Se7en"
+		"YEAR:1995"
+		"RATING:8.6		"
+	}
+	{
+		"ID:23"
+		"NAME:The Silence of the Lambs"
+		"YEAR:1991"
+		"RATING:8.6		"
+	}
+	{
+		"ID:24"
+		"NAME:It's a Wonderful Life"
+		"YEAR:1946"
+		"RATING:8.6		"
+	}
+	{
+		"ID:25"
+		"NAME:Life Is Beautiful"
+		"YEAR:1997"
+		"RATING:8.6		"
+	}
+	{
+		"ID:26"
+		"NAME:The Usual Suspects"
+		"YEAR:1995"
+		"RATING:8.6		"
+	}
+	{
+		"ID:27"
+		"NAME:Léon: The Professional"
+		"YEAR:1994"
+		"RATING:8.5		"
+	}
+	{
+		"ID:28"
+		"NAME:Saving Private Ryan"
+		"YEAR:1998"
+		"RATING:8.5		"
+	}
+	{
+		"ID:29"
+		"NAME:Spirited Away"
+		"YEAR:2001"
+		"RATING:8.5		"
+	}
+	{
+		"ID:30"
+		"NAME:Once Upon a Time in the West"
+		"YEAR:1968"
+		"RATING:8.5		"
+	}
+	{
+		"ID:31"
+		"NAME:American History X"
+		"YEAR:1998"
+		"RATING:8.5		"
+	}
+	{
+		"ID:32"
+		"NAME:Interstellar"
+		"YEAR:2014"
+		"RATING:8.5		"
+	}
+	{
+		"ID:33"
+		"NAME:Psycho"
+		"YEAR:1960"
+		"RATING:8.5		"
+	}
+	{
+		"ID:34"
+		"NAME:The Green Mile"
+		"YEAR:1999"
+		"RATING:8.5		"
+	}
+	{
+		"ID:35"
+		"NAME:City Lights"
+		"YEAR:1931"
+		"RATING:8.5		"
+	}
+	{
+		"ID:36"
+		"NAME:Casablanca"
+		"YEAR:1942"
+		"RATING:8.5		"
+	}
+	{
+		"ID:37"
+		"NAME:The Intouchables"
+		"YEAR:2011"
+		"RATING:8.5		"
+	}
+	{
+		"ID:38"
+		"NAME:Modern Times"
+		"YEAR:1936"
+		"RATING:8.5		"
+	}
+	{
+		"ID:39"
+		"NAME:Raiders of the Lost Ark"
+		"YEAR:1981"
+		"RATING:8.5		"
+	}
+	{
+		"ID:40"
+		"NAME:The Pianist"
+		"YEAR:2002"
+		"RATING:8.5		"
+	}
+	{
+		"ID:41"
+		"NAME:The Departed"
+		"YEAR:2006"
+		"RATING:8.5		"
+	}
+	{
+		"ID:42"
+		"NAME:Rear Window"
+		"YEAR:1954"
+		"RATING:8.5		"
+	}
+	{
+		"ID:43"
+		"NAME:Terminator 2: Judgment Day"
+		"YEAR:1991"
+		"RATING:8.5		"
+	}
+	{
+		"ID:44"
+		"NAME:Back to the Future"
+		"YEAR:1985"
+		"RATING:8.5		"
+	}
+	{
+		"ID:45"
+		"NAME:Whiplash"
+		"YEAR:2014"
+		"RATING:8.5		"
+	}
+	{
+		"ID:46"
+		"NAME:Gladiator"
+		"YEAR:2000"
+		"RATING:8.5		"
+	}
+	{
+		"ID:47"
+		"NAME:The Prestige"
+		"YEAR:2006"
+		"RATING:8.5		"
+	}
+	{
+		"ID:48"
+		"NAME:The Lion King"
+		"YEAR:1994"
+		"RATING:8.5		"
+	}
+	{
+		"ID:49"
+		"NAME:Memento"
+		"YEAR:2000"
+		"RATING:8.5		"
+	}
+	{
+		"ID:50"
+		"NAME:Apocalypse Now"
+		"YEAR:1979"
+		"RATING:8.5		"
+	}
+	{
+		"ID:51"
+		"NAME:Alien"
+		"YEAR:1979"
+		"RATING:8.4		"
+	}
+	{
+		"ID:52"
+		"NAME:The Great Dictator"
+		"YEAR:1940"
+		"RATING:8.4		"
+	}
+	{
+		"ID:53"
+		"NAME:Sunset Boulevard"
+		"YEAR:1950"
+		"RATING:8.4		"
+	}
+	{
+		"ID:54"
+		"NAME:Dr"
+		"YEAR:Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+		"RATING:1964"
+	}
+	{
+		"ID:55"
+		"NAME:Cinema Paradiso"
+		"YEAR:1988"
+		"RATING:8.4		"
+	}
+	{
+		"ID:56"
+		"NAME:The Lives of Others"
+		"YEAR:2006"
+		"RATING:8.4		"
+	}
+	{
+		"ID:57"
+		"NAME:Grave of the Fireflies"
+		"YEAR:1988"
+		"RATING:8.4		"
+	}
+	{
+		"ID:58"
+		"NAME:Paths of Glory"
+		"YEAR:1957"
+		"RATING:8.4		"
+	}
+	{
+		"ID:59"
+		"NAME:Django Unchained"
+		"YEAR:2012"
+		"RATING:8.4		"
+	}
+	{
+		"ID:60"
+		"NAME:The Shining"
+		"YEAR:1980"
+		"RATING:8.4		"
+	}
+	{
+		"ID:61"
+		"NAME:WALL·E"
+		"YEAR:2008"
+		"RATING:8.4		"
+	}
+	{
+		"ID:62"
+		"NAME:American Beauty"
+		"YEAR:1999"
+		"RATING:8.4		"
+	}
+	{
+		"ID:63"
+		"NAME:The Dark Knight Rises"
+		"YEAR:2012"
+		"RATING:8.4		"
+	}
+	{
+		"ID:64"
+		"NAME:Princess Mononoke"
+		"YEAR:1997"
+		"RATING:8.4		"
+	}
+	{
+		"ID:65"
+		"NAME:Aliens"
+		"YEAR:1986"
+		"RATING:8.4		"
+	}
+	{
+		"ID:66"
+		"NAME:Oldboy"
+		"YEAR:2003"
+		"RATING:8.4		"
+	}
+	{
+		"ID:67"
+		"NAME:Witness for the Prosecution"
+		"YEAR:1957"
+		"RATING:8.4		"
+	}
+	{
+		"ID:68"
+		"NAME:Once Upon a Time in America"
+		"YEAR:1984"
+		"RATING:8.4		"
+	}
+	{
+		"ID:69"
+		"NAME:Das Boot"
+		"YEAR:1981"
+		"RATING:8.3		"
+	}
+	{
+		"ID:70"
+		"NAME:Citizen Kane"
+		"YEAR:1941"
+		"RATING:8.3		"
+	}
+	{
+		"ID:71"
+		"NAME:Dangal"
+		"YEAR:2016"
+		"RATING:8.3		"
+	}
+	{
+		"ID:72"
+		"NAME:North by Northwest"
+		"YEAR:1959"
+		"RATING:8.3		"
+	}
+	{
+		"ID:73"
+		"NAME:Vertigo"
+		"YEAR:1958"
+		"RATING:8.3		"
+	}
+	{
+		"ID:74"
+		"NAME:Star Wars: Episode VI - Return of the Jedi"
+		"YEAR:1983"
+		"RATING:8.3		"
+	}
+	{
+		"ID:75"
+		"NAME:Braveheart"
+		"YEAR:1995"
+		"RATING:8.3		"
+	}
+	{
+		"ID:76"
+		"NAME:Reservoir Dogs"
+		"YEAR:1992"
+		"RATING:8.3		"
+	}
+	{
+		"ID:77"
+		"NAME:M"
+		"YEAR:1931"
+		"RATING:8.3		"
+	}
+	{
+		"ID:78"
+		"NAME:Dunkirk"
+		"YEAR:2017"
+		"RATING:8.3		"
+	}
+	{
+		"ID:79"
+		"NAME:Requiem for a Dream"
+		"YEAR:2000"
+		"RATING:8.3		"
+	}
+	{
+		"ID:80"
+		"NAME:Amélie"
+		"YEAR:2001"
+		"RATING:8.3		"
+	}
+	{
+		"ID:81"
+		"NAME:Taare Zameen Par"
+		"YEAR:2007"
+		"RATING:8.3		"
+	}
+	{
+		"ID:82"
+		"NAME:A Clockwork Orange"
+		"YEAR:1971"
+		"RATING:8.3		"
+	}
+	{
+		"ID:83"
+		"NAME:Your Name"
+		"YEAR:2016"
+		"RATING:8.3		"
+	}
+	{
+		"ID:84"
+		"NAME:Lawrence of Arabia"
+		"YEAR:1962"
+		"RATING:8.3		"
+	}
+	{
+		"ID:85"
+		"NAME:Double Indemnity"
+		"YEAR:1944"
+		"RATING:8.3		"
+	}
+	{
+		"ID:86"
+		"NAME:Taxi Driver"
+		"YEAR:1976"
+		"RATING:8.3		"
+	}
+	{
+		"ID:87"
+		"NAME:Amadeus"
+		"YEAR:1984"
+		"RATING:8.3		"
+	}
+	{
+		"ID:88"
+		"NAME:Eternal Sunshine of the Spotless Mind"
+		"YEAR:2004"
+		"RATING:8.3		"
+	}
+	{
+		"ID:89"
+		"NAME:To Kill a Mockingbird"
+		"YEAR:1962"
+		"RATING:8.3		"
+	}
+	{
+		"ID:90"
+		"NAME:Full Metal Jacket"
+		"YEAR:1987"
+		"RATING:8.3		"
+	}
+	{
+		"ID:91"
+		"NAME:Toy Story 3"
+		"YEAR:2010"
+		"RATING:8.3		"
+	}
+	{
+		"ID:92"
+		"NAME:2001: A Space Odyssey"
+		"YEAR:1968"
+		"RATING:8.3		"
+	}
+	{
+		"ID:93"
+		"NAME:Singin' in the Rain"
+		"YEAR:1952"
+		"RATING:8.3		"
+	}
+	{
+		"ID:94"
+		"NAME:The Sting"
+		"YEAR:1973"
+		"RATING:8.3		"
+	}
+	{
+		"ID:95"
+		"NAME:Toy Story"
+		"YEAR:1995"
+		"RATING:8.3		"
+	}
+	{
+		"ID:96"
+		"NAME:3 Idiots"
+		"YEAR:2009"
+		"RATING:8.3		"
+	}
+	{
+		"ID:97"
+		"NAME:Bicycle Thieves"
+		"YEAR:1948"
+		"RATING:8.3		"
+	}
+	{
+		"ID:98"
+		"NAME:Inglourious Basterds"
+		"YEAR:2009"
+		"RATING:8.3		"
+	}
+	{
+		"ID:99"
+		"NAME:The Kid"
+		"YEAR:1921"
+		"RATING:8.3		"
+	}
+	{
+		"ID:100"
+		"NAME:Snatch"
+		"YEAR:2000"
+		"RATING:8.3		"
+	}
+	{
+		"ID:101"
+		"NAME:Monty Python and the Holy Grail"
+		"YEAR:1975"
+		"RATING:8.3		"
+	}
+	{
+		"ID:102"
+		"NAME:For a Few Dollars More"
+		"YEAR:1965"
+		"RATING:8.3		"
+	}
+	{
+		"ID:103"
+		"NAME:L.A"
+		"YEAR:Confidential"
+		"RATING:1997"
+	}
+	{
+		"ID:104"
+		"NAME:Good Will Hunting"
+		"YEAR:1997"
+		"RATING:8.3		"
+	}
+	{
+		"ID:105"
+		"NAME:The Hunt"
+		"YEAR:2012"
+		"RATING:8.3		"
+	}
+	{
+		"ID:106"
+		"NAME:Scarface"
+		"YEAR:1983"
+		"RATING:8.3		"
+	}
+	{
+		"ID:107"
+		"NAME:The Apartment"
+		"YEAR:1960"
+		"RATING:8.2		"
+	}
+	{
+		"ID:108"
+		"NAME:Rashomon"
+		"YEAR:1950"
+		"RATING:8.2		"
+	}
+	{
+		"ID:109"
+		"NAME:A Separation"
+		"YEAR:2011"
+		"RATING:8.2		"
+	}
+	{
+		"ID:110"
+		"NAME:Metropolis"
+		"YEAR:1927"
+		"RATING:8.2		"
+	}
+	{
+		"ID:111"
+		"NAME:Indiana Jones and the Last Crusade"
+		"YEAR:1989"
+		"RATING:8.2		"
+	}
+	{
+		"ID:112"
+		"NAME:My Father and My Son"
+		"YEAR:2005"
+		"RATING:8.2		"
+	}
+	{
+		"ID:113"
+		"NAME:All About Eve"
+		"YEAR:1950"
+		"RATING:8.2		"
+	}
+	{
+		"ID:114"
+		"NAME:Yojimbo"
+		"YEAR:1961"
+		"RATING:8.2		"
+	}
+	{
+		"ID:115"
+		"NAME:Batman Begins"
+		"YEAR:2005"
+		"RATING:8.2		"
+	}
+	{
+		"ID:116"
+		"NAME:Up"
+		"YEAR:2009"
+		"RATING:8.2		"
+	}
+	{
+		"ID:117"
+		"NAME:Some Like It Hot"
+		"YEAR:1959"
+		"RATING:8.2		"
+	}
+	{
+		"ID:118"
+		"NAME:The Treasure of the Sierra Madre"
+		"YEAR:1948"
+		"RATING:8.2		"
+	}
+	{
+		"ID:119"
+		"NAME:Unforgiven"
+		"YEAR:1992"
+		"RATING:8.2		"
+	}
+	{
+		"ID:120"
+		"NAME:Downfall"
+		"YEAR:2004"
+		"RATING:8.2		"
+	}
+	{
+		"ID:121"
+		"NAME:Die Hard"
+		"YEAR:1988"
+		"RATING:8.2		"
+	}
+	{
+		"ID:122"
+		"NAME:Raging Bull"
+		"YEAR:1980"
+		"RATING:8.2		"
+	}
+	{
+		"ID:123"
+		"NAME:Heat"
+		"YEAR:1995"
+		"RATING:8.2		"
+	}
+	{
+		"ID:124"
+		"NAME:The Third Man"
+		"YEAR:1949"
+		"RATING:8.2		"
+	}
+	{
+		"ID:125"
+		"NAME:Children of Heaven"
+		"YEAR:1997"
+		"RATING:8.2		"
+	}
+	{
+		"ID:126"
+		"NAME:The Great Escape"
+		"YEAR:1963"
+		"RATING:8.2		"
+	}
+	{
+		"ID:127"
+		"NAME:Chinatown"
+		"YEAR:1974"
+		"RATING:8.2		"
+	}
+	{
+		"ID:128"
+		"NAME:Ikiru"
+		"YEAR:1952"
+		"RATING:8.2		"
+	}
+	{
+		"ID:129"
+		"NAME:Pan's Labyrinth"
+		"YEAR:2006"
+		"RATING:8.2		"
+	}
+	{
+		"ID:130"
+		"NAME:My Neighbor Totoro"
+		"YEAR:1988"
+		"RATING:8.2		"
+	}
+	{
+		"ID:131"
+		"NAME:Ran"
+		"YEAR:1985"
+		"RATING:8.2		"
+	}
+	{
+		"ID:132"
+		"NAME:Inside Out"
+		"YEAR:2015"
+		"RATING:8.2		"
+	}
+	{
+		"ID:133"
+		"NAME:The Gold Rush"
+		"YEAR:1925"
+		"RATING:8.2		"
+	}
+	{
+		"ID:134"
+		"NAME:The Secret in Their Eyes"
+		"YEAR:2009"
+		"RATING:8.2		"
+	}
+	{
+		"ID:135"
+		"NAME:Incendies"
+		"YEAR:2010"
+		"RATING:8.2		"
+	}
+	{
+		"ID:136"
+		"NAME:On the Waterfront"
+		"YEAR:1954"
+		"RATING:8.2		"
+	}
+	{
+		"ID:137"
+		"NAME:Judgment at Nuremberg"
+		"YEAR:1961"
+		"RATING:8.2		"
+	}
+	{
+		"ID:138"
+		"NAME:The Bridge on the River Kwai"
+		"YEAR:1957"
+		"RATING:8.2		"
+	}
+	{
+		"ID:139"
+		"NAME:Howl's Moving Castle"
+		"YEAR:2004"
+		"RATING:8.2		"
+	}
+	{
+		"ID:140"
+		"NAME:Room"
+		"YEAR:2015"
+		"RATING:8.2		"
+	}
+	{
+		"ID:141"
+		"NAME:Blade Runner"
+		"YEAR:1982"
+		"RATING:8.2		"
+	}
+	{
+		"ID:142"
+		"NAME:The Seventh Seal"
+		"YEAR:1957"
+		"RATING:8.2		"
+	}
+	{
+		"ID:143"
+		"NAME:Lock, Stock and Two Smoking Barrels"
+		"YEAR:1998"
+		"RATING:8.2		"
+	}
+	{
+		"ID:144"
+		"NAME:Mr"
+		"YEAR:Smith Goes to Washington"
+		"RATING:1939"
+	}
+	{
+		"ID:145"
+		"NAME:Casino"
+		"YEAR:1995"
+		"RATING:8.2		"
+	}
+	{
+		"ID:146"
+		"NAME:A Beautiful Mind"
+		"YEAR:2001"
+		"RATING:8.2		"
+	}
+	{
+		"ID:147"
+		"NAME:The Elephant Man"
+		"YEAR:1980"
+		"RATING:8.1		"
+	}
+	{
+		"ID:148"
+		"NAME:Wild Strawberries"
+		"YEAR:1957"
+		"RATING:8.1		"
+	}
+	{
+		"ID:149"
+		"NAME:V for Vendetta"
+		"YEAR:2005"
+		"RATING:8.1		"
+	}
+	{
+		"ID:150"
+		"NAME:The Wolf of Wall Street"
+		"YEAR:2013"
+		"RATING:8.1		"
+	}
+	{
+		"ID:151"
+		"NAME:The General"
+		"YEAR:1926"
+		"RATING:8.1		"
+	}
+	{
+		"ID:152"
+		"NAME:Warrior"
+		"YEAR:2011"
+		"RATING:8.1		"
+	}
+	{
+		"ID:153"
+		"NAME:Trainspotting"
+		"YEAR:1996"
+		"RATING:8.1		"
+	}
+	{
+		"ID:154"
+		"NAME:Andrei Rublev"
+		"YEAR:1966"
+		"RATING:8.1		"
+	}
+	{
+		"ID:155"
+		"NAME:Dial M for Murder"
+		"YEAR:1954"
+		"RATING:8.1		"
+	}
+	{
+		"ID:156"
+		"NAME:La La Land"
+		"YEAR:2016"
+		"RATING:8.1		"
+	}
+	{
+		"ID:157"
+		"NAME:Sunrise"
+		"YEAR:1927"
+		"RATING:8.1		"
+	}
+	{
+		"ID:158"
+		"NAME:Gran Torino"
+		"YEAR:2008"
+		"RATING:8.1		"
+	}
+	{
+		"ID:159"
+		"NAME:The Bandit"
+		"YEAR:1996"
+		"RATING:8.1		"
+	}
+	{
+		"ID:160"
+		"NAME:Gone with the Wind"
+		"YEAR:1939"
+		"RATING:8.1		"
+	}
+	{
+		"ID:161"
+		"NAME:The Deer Hunter"
+		"YEAR:1978"
+		"RATING:8.1		"
+	}
+	{
+		"ID:162"
+		"NAME:Fargo"
+		"YEAR:1996"
+		"RATING:8.1		"
+	}
+	{
+		"ID:163"
+		"NAME:The Sixth Sense"
+		"YEAR:1999"
+		"RATING:8.1		"
+	}
+	{
+		"ID:164"
+		"NAME:The Big Lebowski"
+		"YEAR:1998"
+		"RATING:8.1		"
+	}
+	{
+		"ID:165"
+		"NAME:The Thing"
+		"YEAR:1982"
+		"RATING:8.1		"
+	}
+	{
+		"ID:166"
+		"NAME:No Country for Old Men"
+		"YEAR:2007"
+		"RATING:8.1		"
+	}
+	{
+		"ID:167"
+		"NAME:Finding Nemo"
+		"YEAR:2003"
+		"RATING:8.1		"
+	}
+	{
+		"ID:168"
+		"NAME:Tokyo Story"
+		"YEAR:1953"
+		"RATING:8.1		"
+	}
+	{
+		"ID:169"
+		"NAME:Hacksaw Ridge"
+		"YEAR:2016"
+		"RATING:8.1		"
+	}
+	{
+		"ID:170"
+		"NAME:Cool Hand Luke"
+		"YEAR:1967"
+		"RATING:8.1		"
+	}
+	{
+		"ID:171"
+		"NAME:Rang De Basanti"
+		"YEAR:2006"
+		"RATING:8.1		"
+	}
+	{
+		"ID:172"
+		"NAME:There Will Be Blood"
+		"YEAR:2007"
+		"RATING:8.1		"
+	}
+	{
+		"ID:173"
+		"NAME:Rebecca"
+		"YEAR:1940"
+		"RATING:8.1		"
+	}
+	{
+		"ID:174"
+		"NAME:Logan"
+		"YEAR:2017"
+		"RATING:8.1		"
+	}
+	{
+		"ID:175"
+		"NAME:Come and See"
+		"YEAR:1985"
+		"RATING:8.1		"
+	}
+	{
+		"ID:176"
+		"NAME:The Passion of Joan of Arc"
+		"YEAR:1928"
+		"RATING:8.1		"
+	}
+	{
+		"ID:177"
+		"NAME:Kill Bill: Vol"
+		"YEAR:1"
+		"RATING:2003"
+	}
+	{
+		"ID:178"
+		"NAME:How to Train Your Dragon"
+		"YEAR:2010"
+		"RATING:8.1		"
+	}
+	{
+		"ID:179"
+		"NAME:Mary and Max"
+		"YEAR:2009"
+		"RATING:8.1		"
+	}
+	{
+		"ID:180"
+		"NAME:Gone Girl"
+		"YEAR:2014"
+		"RATING:8.1		"
+	}
+	{
+		"ID:181"
+		"NAME:Into the Wild"
+		"YEAR:2007"
+		"RATING:8.1		"
+	}
+	{
+		"ID:182"
+		"NAME:A Wednesday"
+		"YEAR:2008"
+		"RATING:8.1		"
+	}
+	{
+		"ID:183"
+		"NAME:Shutter Island"
+		"YEAR:2010"
+		"RATING:8.1		"
+	}
+	{
+		"ID:184"
+		"NAME:It Happened One Night"
+		"YEAR:1934"
+		"RATING:8.1		"
+	}
+	{
+		"ID:185"
+		"NAME:Life of Brian"
+		"YEAR:1979"
+		"RATING:8.1		"
+	}
+	{
+		"ID:186"
+		"NAME:Wild Tales"
+		"YEAR:2014"
+		"RATING:8.1		"
+	}
+	{
+		"ID:187"
+		"NAME:Platoon"
+		"YEAR:1986"
+		"RATING:8.1		"
+	}
+	{
+		"ID:188"
+		"NAME:Hotel Rwanda"
+		"YEAR:2004"
+		"RATING:8.1		"
+	}
+	{
+		"ID:189"
+		"NAME:The Wages of Fear"
+		"YEAR:1953"
+		"RATING:8.1		"
+	}
+	{
+		"ID:190"
+		"NAME:Rush"
+		"YEAR:2013"
+		"RATING:8.1		"
+	}
+	{
+		"ID:191"
+		"NAME:Network"
+		"YEAR:1976"
+		"RATING:8.1		"
+	}
+	{
+		"ID:192"
+		"NAME:In the Name of the Father"
+		"YEAR:1993"
+		"RATING:8.1		"
+	}
+	{
+		"ID:193"
+		"NAME:Stand by Me"
+		"YEAR:1986"
+		"RATING:8.1		"
+	}
+	{
+		"ID:194"
+		"NAME:The 400 Blows"
+		"YEAR:1959"
+		"RATING:8.1		"
+	}
+	{
+		"ID:195"
+		"NAME:The Grand Budapest Hotel"
+		"YEAR:2014"
+		"RATING:8.1		"
+	}
+	{
+		"ID:196"
+		"NAME:Ben-Hur"
+		"YEAR:1959"
+		"RATING:8.1		"
+	}
+	{
+		"ID:197"
+		"NAME:Persona"
+		"YEAR:1966"
+		"RATING:8.1		"
+	}
+	{
+		"ID:198"
+		"NAME:12 Years a Slave"
+		"YEAR:2013"
+		"RATING:8.1		"
+	}
+	{
+		"ID:199"
+		"NAME:Mad Max: Fury Road"
+		"YEAR:2015"
+		"RATING:8.1		"
+	}
+	{
+		"ID:200"
+		"NAME:Spotlight"
+		"YEAR:2015"
+		"RATING:8.1		"
+	}
+	{
+		"ID:201"
+		"NAME:Memories of Murder"
+		"YEAR:2003"
+		"RATING:8.1		"
+	}
+	{
+		"ID:202"
+		"NAME:Million Dollar Baby"
+		"YEAR:2004"
+		"RATING:8.1		"
+	}
+	{
+		"ID:203"
+		"NAME:Jurassic Park"
+		"YEAR:1993"
+		"RATING:8.1		"
+	}
+	{
+		"ID:204"
+		"NAME:Butch Cassidy and the Sundance Kid"
+		"YEAR:1969"
+		"RATING:8.1		"
+	}
+	{
+		"ID:205"
+		"NAME:Amores Perros"
+		"YEAR:2000"
+		"RATING:8.1		"
+	}
+	{
+		"ID:206"
+		"NAME:Stalker"
+		"YEAR:1979"
+		"RATING:8.1		"
+	}
+	{
+		"ID:207"
+		"NAME:The Truman Show"
+		"YEAR:1998"
+		"RATING:8.1		"
+	}
+	{
+		"ID:208"
+		"NAME:The Maltese Falcon"
+		"YEAR:1941"
+		"RATING:8.1		"
+	}
+	{
+		"ID:209"
+		"NAME:Paper Moon"
+		"YEAR:1973"
+		"RATING:8.1		"
+	}
+	{
+		"ID:210"
+		"NAME:Hachi: A Dog's Tale"
+		"YEAR:2009"
+		"RATING:8.1		"
+	}
+	{
+		"ID:211"
+		"NAME:The Nights of Cabiria"
+		"YEAR:1957"
+		"RATING:8.1		"
+	}
+	{
+		"ID:212"
+		"NAME:Nausicaä of the Valley of the Wind"
+		"YEAR:1984"
+		"RATING:8.1		"
+	}
+	{
+		"ID:213"
+		"NAME:The Princess Bride"
+		"YEAR:1987"
+		"RATING:8.1		"
+	}
+	{
+		"ID:214"
+		"NAME:Before Sunrise"
+		"YEAR:1995"
+		"RATING:8.1		"
+	}
+	{
+		"ID:215"
+		"NAME:Baby Driver"
+		"YEAR:2017"
+		"RATING:8.0		"
+	}
+	{
+		"ID:216"
+		"NAME:Munna Bhai M.B.B.S"
+		"YEAR:(2003"
+		"RATING:8.0		"
+	}
+	{
+		"ID:217"
+		"NAME:Harry Potter and the Deathly Hallows: Part 2"
+		"YEAR:2011"
+		"RATING:8.0		"
+	}
+	{
+		"ID:218"
+		"NAME:Prisoners"
+		"YEAR:2013"
+		"RATING:8.0		"
+	}
+	{
+		"ID:219"
+		"NAME:The Grapes of Wrath"
+		"YEAR:1940"
+		"RATING:8.0		"
+	}
+	{
+		"ID:220"
+		"NAME:Rocky"
+		"YEAR:1976"
+		"RATING:8.0		"
+	}
+	{
+		"ID:221"
+		"NAME:Catch Me If You Can"
+		"YEAR:2002"
+		"RATING:8.0		"
+	}
+	{
+		"ID:222"
+		"NAME:Touch of Evil"
+		"YEAR:1958"
+		"RATING:8.0		"
+	}
+	{
+		"ID:223"
+		"NAME:Star Wars: The Force Awakens"
+		"YEAR:2015"
+		"RATING:8.0		"
+	}
+	{
+		"ID:224"
+		"NAME:Diabolique"
+		"YEAR:1955"
+		"RATING:8.0		"
+	}
+	{
+		"ID:225"
+		"NAME:Gandhi"
+		"YEAR:1982"
+		"RATING:8.0		"
+	}
+	{
+		"ID:226"
+		"NAME:Donnie Darko"
+		"YEAR:2001"
+		"RATING:8.0		"
+	}
+	{
+		"ID:227"
+		"NAME:Monsters, Inc"
+		"YEAR:(2001"
+		"RATING:8.0		"
+	}
+	{
+		"ID:228"
+		"NAME:Sholay"
+		"YEAR:1975"
+		"RATING:8.0		"
+	}
+	{
+		"ID:229"
+		"NAME:Annie Hall"
+		"YEAR:1977"
+		"RATING:8.0		"
+	}
+	{
+		"ID:230"
+		"NAME:The Terminator"
+		"YEAR:1984"
+		"RATING:8.0		"
+	}
+	{
+		"ID:231"
+		"NAME:The Bourne Ultimatum"
+		"YEAR:2007"
+		"RATING:8.0		"
+	}
+	{
+		"ID:232"
+		"NAME:Barry Lyndon"
+		"YEAR:1975"
+		"RATING:8.0		"
+	}
+	{
+		"ID:233"
+		"NAME:The Wizard of Oz"
+		"YEAR:1939"
+		"RATING:8.0		"
+	}
+	{
+		"ID:234"
+		"NAME:Groundhog Day"
+		"YEAR:1993"
+		"RATING:8.0		"
+	}
+	{
+		"ID:235"
+		"NAME:8½"
+		"YEAR:1963"
+		"RATING:8.0		"
+	}
+	{
+		"ID:236"
+		"NAME:La Haine"
+		"YEAR:1995"
+		"RATING:8.0		"
+	}
+	{
+		"ID:237"
+		"NAME:Jaws"
+		"YEAR:1975"
+		"RATING:8.0		"
+	}
+	{
+		"ID:238"
+		"NAME:Twelve Monkeys"
+		"YEAR:1995"
+		"RATING:8.0		"
+	}
+	{
+		"ID:239"
+		"NAME:Infernal Affairs"
+		"YEAR:2002"
+		"RATING:8.0		"
+	}
+	{
+		"ID:240"
+		"NAME:The Best Years of Our Lives"
+		"YEAR:1946"
+		"RATING:8.0		"
+	}
+	{
+		"ID:241"
+		"NAME:The Help"
+		"YEAR:2011"
+		"RATING:8.0		"
+	}
+	{
+		"ID:242"
+		"NAME:Beauty and the Beast"
+		"YEAR:1991"
+		"RATING:8.0		"
+	}
+	{
+		"ID:243"
+		"NAME:In the Mood for Love"
+		"YEAR:2000"
+		"RATING:8.0		"
+	}
+	{
+		"ID:244"
+		"NAME:The Battle of Algiers"
+		"YEAR:1966"
+		"RATING:8.0		"
+	}
+	{
+		"ID:245"
+		"NAME:Gangs of Wasseypur"
+		"YEAR:2012"
+		"RATING:8.0		"
+	}
+	{
+		"ID:246"
+		"NAME:Dog Day Afternoon"
+		"YEAR:1975"
+		"RATING:8.0		"
+	}
+	{
+		"ID:247"
+		"NAME:Pirates of the Caribbean: The Curse of the Black Pearl"
+		"YEAR:2003"
+		"RATING:8.0		"
+	}
+	{
+		"ID:248"
+		"NAME:What Ever Happened to Baby Jane?"
+		"YEAR:1962"
+		"RATING:8.0		"
+	}
+	{
+		"ID:249"
+		"NAME:Paris, Texas"
+		"YEAR:1984"
+		"RATING:8.0		"
+	}
+	{
+		"ID:250"
+		"NAME:PK"
+		"YEAR:2014"
+		"RATING:8.0"
+	}
+]

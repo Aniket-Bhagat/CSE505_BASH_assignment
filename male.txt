@@ -1,0 +1,4 @@
+Name Gender Mid1(25%) Mid2(25%) Endsem(50%)
+AA M 20 15 35
+DD M 15 20 42
+FF M 0 20 45
